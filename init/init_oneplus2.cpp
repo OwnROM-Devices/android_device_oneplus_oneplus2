@@ -36,7 +36,7 @@
 
 void init_variant_properties() {
 
-    std::string device = property_get("ro.xenonhd.device");
+    std::string device = property_get("ro.ownrom.device");
     std::string rf_version;
 
     if (device != "oneplus2")

@@ -10,11 +10,6 @@
     "branch": "n"
   },
   {
-    "repository": "TeamHorizon/proprietary_vendor_oneplus",
-    "target_path": "vendor/oneplus",
-    "branch": "n"
-  },
-  {
     "repository": "LineageOS/android_vendor_nxp-nfc_opensource_frameworks",
     "target_path": "vendor/nxp-nfc/opensource/frameworks",
     "branch": "cm-14.1"
